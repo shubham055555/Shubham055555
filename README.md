@@ -74,5 +74,5 @@
 ### 🟡 Custom Contribution Animation
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/assets/your-user-id/your-image.gif" alt="Custom Contribution Animation" />
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="AI Developer Animation" />
 </p>
