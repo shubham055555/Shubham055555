@@ -2,19 +2,22 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Ye har din midnight ko chalega
-  workflow_dispatch:  # Ye manual trigger ke liye hai
+    - cron: "0 0 * * *"  # Har din midnight ko chalega
+  workflow_dispatch:  # Manual trigger ke liye
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v2  # Code ko checkout karna zaruri hai
+
       - name: Generate Snake SVG
-        uses: Platane/snk@master
+        uses: Platane/snk@master  # Snake SVG generate karne ke liye
         with:
           github_user_name: shubham055555
-          svg_out_path: dist/github-contribution-grid-snake.svg  # Correct output path diya gaya hai
+          svg_out_path: dist/github-contribution-grid-snake.svg  # Correct output path
 
       - name: Push Snake SVG to the output branch
         uses: crazy-max/ghaction-github-pages@v3
