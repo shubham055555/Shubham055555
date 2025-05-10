@@ -1,26 +1,25 @@
-
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Ye har din midnight ko chalega
+  workflow_dispatch:  # Ye manual trigger ke liye hai
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Generate Snake SVG
         uses: Platane/snk@master
         with:
           github_user_name: shubham055555
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg  # Correct output path diya gaya hai
 
       - name: Push Snake SVG to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: output  # Ye output branch ko target karega
+          build_dir: dist  # Yeh build directory hai jahan SVG file save hogi
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token jo authorization ke liye use hoga
