@@ -74,7 +74,7 @@
 ### 🐍 Watch My Contribution Snake Game
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Shubham055555/Shubham055555/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shubham055555/shubham055555/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
-###
 
