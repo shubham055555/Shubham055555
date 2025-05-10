@@ -71,11 +71,8 @@
 
 ---
 
-### 🟡 Watch My Contribution Pac-Man
+### 🟡 Custom Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubham055555/shubham055555/output/github-contribution-grid-snake.svg" alt="Pac-Man Snake" />
+  <img src="https://github.com/your-username/your-repo-name/assets/your-user-id/your-image.gif" alt="Custom Contribution Animation" />
 </p>
-
-
-
