@@ -71,8 +71,10 @@
 
 ---
 
+---
+
 ### 🟡 Custom Contribution Animation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="AI Developer Animation" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGM5OTh0YjJjM3B2aW02dHdtNnFsbmdpYm90OTZ2OThmOGx4MmhxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZY3W96Mvat8EFTCclA/giphy.gif" alt="Pacman Animation" />
 </p>
