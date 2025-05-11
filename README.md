@@ -75,9 +75,15 @@
 
 ---
 
-### 🟡 Custom Contribution Animation
+---
+
+### 🟡 Custom Contribution Animations
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhrZGk4NjI0Y3FoZGZoM3N5NXo3dnYxbWRhZTFydW5ndXI3cDNjaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d9QiBcfzg64Io/giphy.gif" alt="AI Pacman Animation" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNyMTRmYXBodnpxZGRqanZzYTJ3bHFvaWpkN2hoYjh2aW82b2h1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="45%" alt="AI Typing GIF Left" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJjcXQwOTRiNHkxZTBtbDBybzR2MGZ4ZzhrZXA5bTQwcTY3NjAzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif" width="45%" alt="Tech Maze GIF Right" />
 </p>
+
+
+
 
