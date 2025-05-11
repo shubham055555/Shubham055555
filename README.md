@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">🚀 AI & ML Enthusiast | Java Developer | Debugger by Passion</h3>
 
@@ -9,7 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=shubham055555&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
+<hr style="height: 4px; background: linear-gradient(90deg, red, orange, yellow, green, cyan, blue, violet); border: none; border-radius: 4px; margin: 20px 0;" />
+
 
 ### ✨ About Me
 
@@ -19,7 +21,8 @@
 - 🎲 Fun fact: Sometimes my ML models predict my emotions better than I can 😅  
 - 💬 Ask me about **Python, TensorFlow, OpenCV, Java, SQL, ML, Flask, and Frontend Dev**
 
----
+<hr style="height: 4px; background: linear-gradient(90deg, red, orange, yellow, green, cyan, blue, violet); border: none; border-radius: 4px; margin: 20px 0;" />
+
 
 ### 🛠️ Languages & Tools
 
@@ -52,7 +55,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
 </p>
 
----
+<hr style="height: 4px; background: linear-gradient(90deg, red, orange, yellow, green, cyan, blue, violet); border: none; border-radius: 4px; margin: 20px 0;" />
+
 
 ### 📊 GitHub Stats
 
@@ -62,7 +66,8 @@
   <img src="https://streak-stats.demolab.com?user=shubham055555&theme=radical" />
 </p>
 
----
+<hr style="height: 4px; background: linear-gradient(90deg, red, orange, yellow, green, cyan, blue, violet); border: none; border-radius: 4px; margin: 20px 0;" />
+
 
 ### 🏆 GitHub Trophies
 
@@ -70,13 +75,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shubham055555&theme=tokyonight&margin-w=10&no-frame=true" />
 </p>
 
----
+<hr style="height: 4px; background: linear-gradient(90deg, red, orange, yellow, green, cyan, blue, violet); border: none; border-radius: 4px; margin: 20px 0;" />
 
----
-
----
-
----
 
 ### 🟡 Custom Contribution Animations
 
@@ -84,7 +84,3 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNyMTRmYXBodnpxZGRqanZzYTJ3bHFvaWpkN2hoYjh2aW82b2h1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="45%" alt="AI Typing GIF Left" />
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJjcXQwOTRiNHkxZTBtbDBybzR2MGZ4ZzhrZXA5bTQwcTY3NjAzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif" width="45%" alt="Tech Maze GIF Right" />
 </p>
-
-
-
-
