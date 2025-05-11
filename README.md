@@ -73,8 +73,11 @@
 
 ---
 
+---
+
 ### 🟡 Custom Contribution Animation
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGM5OTh0YjJjM3B2aW02dHdtNnFsbmdpYm90OTZ2OThmOGx4MmhxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZY3W96Mvat8EFTCclA/giphy.gif" alt="Pacman Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhrZGk4NjI0Y3FoZGZoM3N5NXo3dnYxbWRhZTFydW5ndXI3cDNjaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d9QiBcfzg64Io/giphy.gif" alt="AI Pacman Animation" />
 </p>
+
